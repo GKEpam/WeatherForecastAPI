@@ -1,5 +1,4 @@
-﻿using MediatR;
-using MediatR.Extensions.FluentValidation.AspNetCore;
+﻿using MediatR.Extensions.FluentValidation.AspNetCore;
 using MediatR.Pipeline;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
